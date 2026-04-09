@@ -1,6 +1,3 @@
-# IY499-Assignment
-Practical Programming Assignment
-
 Student Information
 Name: Anton Silver
 P-number: P498217
